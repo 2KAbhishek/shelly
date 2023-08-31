@@ -20,7 +20,7 @@
 <a href="https://github.com/2KAbhishek/shelly/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/shelly?style=flat&color=e06c75&label="> </a>
 
-<h3>Short Sweet Headline 🎇🎉</h3>
+<h3>Publish CLI Tools 🐚✨</h3>
 
 <figure>
   <img src="images/screenshot.png" alt="shelly in action">
