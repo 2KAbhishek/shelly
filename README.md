@@ -50,14 +50,21 @@ shelly is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 ```bash
 git clone https://github.com/2kabhishek/shelly
 cd shelly
-<install_command>
+# Link mkrepo to a directory that's in PATH (~/.local/bin here)
+ln -sfnv "$PWD/shelly.sh" ~/.local/bin/shelly
 ```
 
 ### 💻 Usage
 
 ```bash
 USAGE:
-    shelly [FLAGS] [OPTIONS]
+
+shelly <REQUIRED> [OPTIONAL]
+
+Arguments:
+    REQUIRED: Required Argument
+    OPTIONAL: Optional Argument
+
 Example:
     shelly
 ```
@@ -85,9 +92,8 @@ shelly was inspired by `<reason/idea>`.
 
 ### 🧰 Tooling
 
-- [Dotfiles](https://github.com/2kabhishek/Dotfiles) — Dev Environment
+- [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
 - [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
-- [awesome2k](https://github.com/2kabhishek/awesome2k) — Tiling Window Manager
 
 ### 🔍 More Info
 
