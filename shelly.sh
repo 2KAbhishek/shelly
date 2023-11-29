@@ -1,7 +1,5 @@
 #!/bin/bash
 
-DEFAULT_VALUE="sh"
-
 display_help() {
     cat << EOF
 shelly: Publish CLI Tools 🐚✨
@@ -22,8 +20,10 @@ check_command() {
 }
 
 main() {
+    DEFAULT_VALUE="sh"
     required=$1
     optional=${2:-$DEFAULT_VALUE}
+    echo "Required: $required, Optional: $optional"
 
     check_command "$optional"
 
@@ -38,8 +38,6 @@ main() {
         display_help
         exit 1
     fi
-
-    echo "Required: $required, Optional: $optional"
 }
 
 main "$@"
