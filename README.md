@@ -34,9 +34,9 @@ shelly is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 
 ## ✨ Features
 
-- Supports foo
-- Can do bar
-- Works with bazz
+- Comes with a ready to go shell template
+- Quick documentation with README template
+- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
 
 ## ⚡ Setup
 
@@ -99,7 +99,8 @@ shelly was inspired by `<reason/idea>`.
 
 ### 🔍 More Info
 
-- [similar](https://github.com/2kabhishek/similar) — a related repo
+- [bare-minimum](https://github.com/2kabhishek/bare-minimum) — General purpose template
+- [tiny-web](https://github.com/2kabhishek/shelly) — Web app template
 
 <hr>
 
