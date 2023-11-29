@@ -38,14 +38,14 @@ shelly is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 - Can do bar
 - Works with bazz
 
-## Setup
+## ⚡ Setup
 
-### ⚡ Requirements
+### ⚙️ Requirements
 
 - foo >= bar
 - bazz
 
-### 🚀 Installation
+### 💻 Installation
 
 ```bash
 git clone https://github.com/2kabhishek/shelly
@@ -54,7 +54,7 @@ cd shelly
 ln -sfnv "$PWD/shelly.sh" ~/.local/bin/shelly
 ```
 
-### 💻 Usage
+## 🚀 Usage
 
 ```bash
 USAGE:
@@ -69,7 +69,7 @@ Example:
     shelly
 ```
 
-## What's Next
+## 🏗️ What's Next
 
 Planning to add `<feature/module>`.
 
@@ -79,7 +79,7 @@ Planning to add `<feature/module>`.
 - [ ] Think real hard
 - [ ] Start typing
 
-##  Behind The Code
+## 🧑‍💻 Behind The Code
 
 ### 🌈 Inspiration
 
@@ -94,6 +94,8 @@ shelly was inspired by `<reason/idea>`.
 
 - [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
 - [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
+- [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
+- [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
 
 ### 🔍 More Info
 
