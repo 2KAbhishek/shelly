@@ -100,7 +100,7 @@ shelly was inspired by `<reason/idea>`.
 ### 🔍 More Info
 
 - [bare-minimum](https://github.com/2kabhishek/bare-minimum) — General purpose template
-- [tiny-web](https://github.com/2kabhishek/shelly) — Web app template
+- [tiny-web](https://github.com/2kabhishek/tiny-web) — Web app template
 
 <hr>
 
